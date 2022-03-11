@@ -1,4 +1,4 @@
-###### tags: `CDF` `SIG Software Supply Chain`
+###### tags: `SIG Software Supply Chain`
 
 # CDF Software Supply Chain SIG Meetings
 
@@ -7,22 +7,71 @@
 ## Quick links
 
 * [Logistics](#Logistics)
-* [Meeting Recordings](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9QxICOnONBFPn_cYfJ8BsaG)
 * [Agenda and Notes](#Agenda-and-Notes)
-    * [2022-02-03 Meeting](#February-3-2022)
-    * [2022-01-20 Meeting](#January-20-2022)
+    * [2022-03-10 Meeting](#March-10-2022)
 
 ## Logistics
 
-* **Meeting notes on HackMD.io**: https://hackmd.io/@cdf-sig-interoperability/ry3TTB5DL
-* **When**: TBD
-* **Zoom Bridge**: TBD
+* **Meeting notes on HackMD**: https://hackmd.io/MX4W9EE0RBeO3xfJ9wDi_Q
+* **When**: Second and fourth Thursdays at 16:00UTC (*See your timezone [here](https://time.is/1600_in_UTC)*).
+* **Zoom Bridge**: https://zoom.us/j/827082528?pwd=RlN5OUZtVVBuZGZRY0NBRnZyZ0NJQT09
 * **Zoom International dial-in numbers**: https://zoom.us/zoomconference
 * **Meeting Recordings**: TBD
+* **Presentation Schedule**: https://hackmd.io/l1BfXp1kQKGKSaKLbl6xJw
 * **CDF Public Calendar**: [here](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24%40group.calendar.google.com&ctz=UTC)
 
 ## Agenda and Notes
 
-Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@cdf-sig-interoperability/ry3TTB5DL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/MX4W9EE0RBeO3xfJ9wDi_Q) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
 
-If you are looking for 2021 minutes of meetings, please take a look at [Meetings 2021 document](https://github.com/cdfoundation/sig-interoperability/blob/master/docs/meetings_2021.md) in SIG Interoperability repository on GitHub.
+### March 10, 2022
+
+#### Participants
+
+* Fatih Degirmenci, Ericsson Software Technology
+* Maxime Gréau, Elastic
+* Ann Marie Fred, Red Hat
+* Erhan Vikyol, Storebrand
+* Tracy Miranda, Chainguard
+* Kara de la Marck, CDF
+* Ankit D Mohapatra, Dexai Robotics
+* Melissa McKay, JFrog
+* Andrea Frittoli, IBM
+* Georg Kunz, Ericsson
+* Terry Cox
+* Liora Milbaum, Red Hat
+
+#### Agenda and Notes
+
+* Welcome and Introductions
+* What is SIG Software Supply Chain and Why?
+* Approach of the SIG
+* SIG Logistics
+* SIG Roadmap
+* Initial Topics for the SIG Roadmap
+* Knowledge Transfer
+* Next Meeting on March 24, 2022
+    * March 24th falls between when NA and EMEA makes the summer time change
+    * If we meet at [16:00 UTC](https://time.is/compare/1600_24_Mar_2022_in_UTC/CET/PT), the meeting time will remain same for EMEA but will be 1h later for NA
+    * If we meet at [15:00 UTC](https://time.is/compare/1500_24_Mar_2022_in_UTC/CET/PT), the meeting time will remain same for NA but will be 1h earlier for EMEA
+    * Or we skip the meeting to keep things simple - our next meeting would be on April 14, 2022
+* Open Discussion
+* References
+    * [Meeting Presentation](https://docs.google.com/presentation/d/1-nt-1Pe4WwiKoDT-ooWAxKPDunSoqeES9Qb3WTEkE9M/edit)
+    * [CDF SIG Software Supply Chain Charter](https://github.com/cdfoundation/sig-software-supply-chain#overview)
+    * [CNCF TAG Security, Software Supply Chain Best Practices Whitepaper](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)
+    * Secure Software Factory 
+        * [Website](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)
+        * [GitHub](https://github.com/thesecuresoftwarefactory/ssf)
+        * [RFC](https://docs.google.com/document/d/15M_Mzfqy634E_sqoslmOXsZJl4TedpbXpBjOfz-hnXk/edit)
+    * [TektonCD Chains](https://github.com/tektoncd/chains)
+    * [CNCF TAG App Delivery Pod Tato Head](https://github.com/podtato-head/podtato-head)
+    * CDF SIG Interoperability Terminology Work and Quality Gates Discussion
+        * [PR on Pipeline Stage Terminology](https://github.com/cdfoundation/sig-interoperability/pull/76)
+        * [PR on Pipeline Step Types](https://github.com/cdfoundation/sig-interoperability/pull/81)
+        * [Quality Gates Discussion](https://github.com/cdfoundation/sig-interoperability/discussions/83)
+
+
+#### Action Items
+
+* \<addme\>
