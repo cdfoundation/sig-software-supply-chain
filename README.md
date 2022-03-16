@@ -95,15 +95,15 @@ welcome to join our open discussions.
 
 SIG Software Supply Chain also uses Slack for additional collaboration opportunities.
 
-* Maillist: TBD
-* Slack Channel: TBD
+* Maillist: https://lists.cd.foundation/g/sig-software-supply-chain
+* Slack Channel: #sig-software-supply-chain on [CDF Slack](https://cdeliveryfdn.slack.com/join/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg#/)
 
 ## Meetings
 
-SIG Software Supply Chain meets TBD.
+SIG Software Supply Chain meets second and fourth Thursdays at 16:00 UTC. (*See your timezone [here](https://time.is/1600_in_UTC)*)..
 
-* Meeting agenda and minutes: TBD
+* Meeting agenda and minutes: [here](./docs/meetings.md)
 * Meeting recordings: TBD
-* Zoom Bridge: TBD
+* Zoom Bridge: [here](https://zoom.us/j/827082528?pwd=RlN5OUZtVVBuZGZRY0NBRnZyZ0NJQT09)
 * Zoom International dial-in numbers: [here](https://zoom.us/zoomconference)
 * CDF Public Calendar (UTC): [here](https://calendar.google.com/calendar/u/0/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24@group.calendar.google.com&ctz=UTC)
