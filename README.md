@@ -50,6 +50,7 @@ The Software Supply Chain SIG will also look for synergies between CDF and other
 * Maxime Gréau ([@mgreau](https://github.com/mgreau)), Elastic
 * Majinghe ([@majinghe](https://github.com/majinghe))
 * Dan Garfield ([@todaywasawesome](https://github.com/todaywasawesome)), Codefresh
+* David Espejo ([davidmirror-ops](https://github.com/davidmirror-ops)), VMware
 
 ## New Members
 
