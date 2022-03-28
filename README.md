@@ -101,10 +101,10 @@ SIG Software Supply Chain also uses Slack for additional collaboration opportuni
 
 ## Meetings
 
-SIG Software Supply Chain meets second and fourth Thursdays at 16:00 UTC. (*See your timezone [here](https://time.is/1600_in_UTC)*)..
+SIG Software Supply Chain meets second and fourth Thursdays at 15:00 UTC. (*See your timezone [here](https://time.is/1500_in_UTC)*)
 
 * Meeting agenda and minutes: [here](./docs/meetings.md)
-* Meeting recordings: TBD
+* Meeting recordings: [here](https://youtube.com/playlist?list=PL2KXbZ9-EY9TT2rKSBv6-BUdKqsJg9rAL)
 * Zoom Bridge: [here](https://zoom.us/j/827082528?pwd=RlN5OUZtVVBuZGZRY0NBRnZyZ0NJQT09)
 * Zoom International dial-in numbers: [here](https://zoom.us/zoomconference)
 * CDF Public Calendar (UTC): [here](https://calendar.google.com/calendar/u/0/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24@group.calendar.google.com&ctz=UTC)
