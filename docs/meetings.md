@@ -8,6 +8,7 @@
 
 * [Logistics](#Logistics)
 * [Agenda and Notes](#Agenda-and-Notes)
+    * [2022-04-14 Meeting](#April-14-2022)
     * [2022-03-24 Meeting](#March-24-2022)
     * [2022-03-10 Meeting](#March-10-2022)
 
@@ -15,7 +16,7 @@
 
 * **Meeting notes on HackMD**: https://hackmd.io/MX4W9EE0RBeO3xfJ9wDi_Q
 * **When**: Second and fourth Thursdays at 15:00UTC (*See your timezone [here](https://time.is/1500_in_UTC)*)
-* **Zoom Bridge**: https://zoom.us/j/827082528?pwd=RlN5OUZtVVBuZGZRY0NBRnZyZ0NJQT09
+* **Zoom Bridge**: https://zoom.us/j/94947282554?pwd=UndPWjFkQTJSUGo4WTRZWjlDaEQvUT09
 * **Zoom International dial-in numbers**: https://zoom.us/zoomconference
 * **Meeting Recordings**: [CDF Youtube Channel SIG Software Supply Chain Playlist](https://youtube.com/playlist?list=PL2KXbZ9-EY9TT2rKSBv6-BUdKqsJg9rAL)
 * **Presentation Schedule**: https://hackmd.io/l1BfXp1kQKGKSaKLbl6xJw
@@ -24,6 +25,30 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/MX4W9EE0RBeO3xfJ9wDi_Q) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### April 14, 2022
+
+#### Participants
+
+* \<addme\>
+
+#### Agenda and Notes
+
+* Action Item Review, All
+* Meeting Time Change, All
+    * Meeting time changed to [15:00 UTC](https://time.is/1500_in_UTC)
+    * Meeting invite sent to the SIG's maillist - https://lists.cd.foundation/g/sig-software-supply-chain
+* Setting the scope for the SIG PoC, All
+* [TektonCD Chains](https://github.com/tektoncd/chains) Presentation/Demo,Priya Wadhwa, Chainguard
+* \<addme\>
+
+#### Action Items
+
+* \<addme\>
+
+#### Meeting Recording
+
+* \<addme\>
 
 ### March 24, 2022
 
