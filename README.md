@@ -105,6 +105,6 @@ SIG Software Supply Chain meets second and fourth Thursdays at 15:00 UTC. (*See 
 
 * Meeting agenda and minutes: [here](./docs/meetings.md)
 * Meeting recordings: [here](https://youtube.com/playlist?list=PL2KXbZ9-EY9TT2rKSBv6-BUdKqsJg9rAL)
-* Zoom Bridge: [here](https://zoom.us/j/827082528?pwd=RlN5OUZtVVBuZGZRY0NBRnZyZ0NJQT09)
+* Zoom Bridge: [here](https://zoom.us/j/94947282554?pwd=UndPWjFkQTJSUGo4WTRZWjlDaEQvUT09)
 * Zoom International dial-in numbers: [here](https://zoom.us/zoomconference)
 * CDF Public Calendar (UTC): [here](https://calendar.google.com/calendar/u/0/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24@group.calendar.google.com&ctz=UTC)
