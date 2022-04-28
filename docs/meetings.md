@@ -8,6 +8,7 @@
 
 * [Logistics](#Logistics)
 * [Agenda and Notes](#Agenda-and-Notes)
+    * [2022-04-28 Meeting](#April-28-2022)
     * [2022-04-14 Meeting](#April-14-2022)
     * [2022-03-24 Meeting](#March-24-2022)
     * [2022-03-10 Meeting](#March-10-2022)
@@ -26,11 +27,56 @@
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/MX4W9EE0RBeO3xfJ9wDi_Q) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
 
+### April 28, 2022
+
+#### Participants
+
+* Fatih Degirmenci, Ericsson Software Technology
+* Kara de la Marck, CDF
+* Thomas Schuetz, Dynatrace
+* Josh Gavant, Red Hat ([@joshgav](https://github.com/joshgav))
+* Terry Cox
+* David Espejo, VMware
+* Maxime Gréau, Elastic
+* Emil Bäckmark, Ericsson
+* Georg Kunz, Ericsson
+
+#### Agenda and Notes
+
+* Action Item Review, All
+* [CNCF TAG App Delivery](https://github.com/cncf/tag-app-delivery) and [podtato-head](https://github.com/podtato-head/podtato-head), Thomas Schuetz (Dynatrace) and Josh Gavant (Red Hat)
+    * The work that is done by TAG App Delivery and Pod-tato has potential to be used as part of [CDF SIG Software Supply Chain Proof of Concept](https://hackmd.io/U6q685gFTdWRrkWZechvGw?view) to look at runtime aspects of Software Supply Chain.
+    * Issue about documenting how to propose new scenarios/patterns and development frameworks: https://github.com/cncf/tag-app-delivery/issues/167
+    * Similar ideas
+        * OpenTel: <https://docs.google.com/document/d/1nCV32KvYzowspjWk9ym6MoLOc-1D_RF-EcX7Dnf_VcE/>
+        * SIG Events POC: <https://github.com/cdfoundation/sig-events/tree/main/poc>
+* CI/CD Terminology for Supply Chain Stages/Steps, All
+    * Contributing to SIG Interoperability Pipeline [Stages](https://github.com/cdfoundation/sig-interoperability/blob/master/docs/vocabulary.md#pipeline-stages)/[Steps](https://github.com/cdfoundation/sig-interoperability/blob/master/docs/vocabulary.md#pipeline-step-types) terminology
+    * The initial PR: https://github.com/cdfoundation/sig-interoperability/pull/97
+    * This will be useful as an input to [SIG PoC](https://hackmd.io/U6q685gFTdWRrkWZechvGw?view)
+
+* \<addme\>
+
+#### Action Items
+
+* \<addme\>
+
+#### Meeting Recording
+
+* \<addme\>
+
 ### April 14, 2022
 
 #### Participants
 
-* \<addme\>
+* Jason Hall (Red Hat)
+* Maxime Gréau (Elastic)
+* Ankit (Dexai Robotics)
+* Kara de la Marck (CDF)
+* Fatih Degirmenci (Ericsson Software Technology)
+* Terry Cox
+* Priya Wadhwa (Chainguard)
+* Liora Milbaum (Red Hat)
 
 #### Agenda and Notes
 
@@ -39,12 +85,13 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/MX4W9EE0RBeO3
     * Meeting time changed to [15:00 UTC](https://time.is/1500_in_UTC)
     * Meeting invite sent to the SIG's maillist - https://lists.cd.foundation/g/sig-software-supply-chain
 * Setting the scope for the SIG PoC, All
+    * PoC Document: https://hackmd.io/U6q685gFTdWRrkWZechvGw?view
 * [TektonCD Chains](https://github.com/tektoncd/chains) Presentation/Demo,Priya Wadhwa, Chainguard
 * \<addme\>
 
 #### Action Items
 
-* \<addme\>
+* None
 
 #### Meeting Recording
 
