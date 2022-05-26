@@ -8,6 +8,8 @@
 
 * [Logistics](#Logistics)
 * [Agenda and Notes](#Agenda-and-Notes)
+    * [2022-05-26 Meeting](#May-26-2022)
+    * [2022-05-12 Meeting](#May-12-2022)
     * [2022-04-28 Meeting](#April-28-2022)
     * [2022-04-14 Meeting](#April-14-2022)
     * [2022-03-24 Meeting](#March-24-2022)
@@ -26,6 +28,75 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/MX4W9EE0RBeO3xfJ9wDi_Q) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### May 26, 2022
+
+#### Participants
+
+* Stephen Levine, VMWare
+* Ciro da Silva Costa, VMWare
+* Terry Cox
+* David Espejo, VMWare
+* Joshua Winters
+* Kara de la Marck
+* Rasheed Abdul-Aziz
+* Sam Coward
+* Scott Rosenberg
+* Waciuma
+* Fatih Degirmenci
+* Ankit Mohapatra, Dexai Robotics, Jenkins X
+
+#### Agenda and Notes
+
+* Action Item Review, All
+* Open PRs discussion on SIG PoC, All
+    * PR on SIG PoC is open for feedback: https://github.com/cdfoundation/sig-software-supply-chain/pull/12
+    * PR on Pipeline Stages is open for feedback: https://github.com/cdfoundation/sig-interoperability/pull/97
+* [Cartographer](https://cartographer.sh/) Presentation, Stephen Levine and Ciro da Silva Costa
+* \<addme\>
+
+#### Action Items
+
+* \<addme\>
+
+### May 12, 2022
+
+#### Participants
+
+* Georg Kunz, Ericsson
+* Erhan Vikyol, Storebrand
+* Daniel Krivelevich, Cider Security
+* Omer Gil, Cider Security
+* Terry Cox
+* Ann Marie Fred, Red Hat
+* Asaf Greenholts
+* David Espejo
+* Kara de la Marck, CDF
+* Moïse
+* Fatih Degirmenci, Ericsson Software Technology
+* Ankit Mohapatra, Dexai Robotics, Jenkins X
+
+#### Agenda and Notes
+
+* Action Item Review, All
+* Top 10 CI/CD Security Risks and CI/CD Goat, Daniel Krivelevich, Omer Gil, Cider Security
+    * [Top 10 CI/CD Security Risks (PDF)](https://www.cidersecurity.io/wp-content/uploads/2022/03/Top-10-CICD-Security-Risks-.pdf)
+    * [Top 10 CI/CD Security Risks (GitHub)](https://github.com/cider-security-research/top-10-cicd-security-risks)
+    * [CI/CD Goat (GitHub)](https://github.com/cider-security-research/cicd-goat)
+* Continue discussion on [SIG PoC](https://hackmd.io/U6q685gFTdWRrkWZechvGw?view), All
+    * Isn't it still valuable to establish pipelines to demonstrate the activities to perform and stages/steps to create?
+* CI/CD Terminology for Supply Chain Stages/Steps, All
+    * Contributing to SIG Interoperability Pipeline [Stages](https://github.com/cdfoundation/sig-interoperability/blob/master/docs/vocabulary.md#pipeline-stages)/[Steps](https://github.com/cdfoundation/sig-interoperability/blob/master/docs/vocabulary.md#pipeline-step-types) terminology
+    * The initial PR: https://github.com/cdfoundation/sig-interoperability/pull/97
+    * This will be useful as an input to [SIG PoC](https://hackmd.io/U6q685gFTdWRrkWZechvGw?view)
+
+#### Action Items
+
+* \<addme\>
+
+#### Meeting Recording
+
+* \<addme\>
 
 ### April 28, 2022
 
@@ -55,11 +126,9 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/MX4W9EE0RBeO3
     * The initial PR: https://github.com/cdfoundation/sig-interoperability/pull/97
     * This will be useful as an input to [SIG PoC](https://hackmd.io/U6q685gFTdWRrkWZechvGw?view)
 
-* \<addme\>
-
 #### Action Items
 
-* \<addme\>
+* None
 
 #### Meeting Recording
 
