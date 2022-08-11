@@ -8,6 +8,11 @@
 
 * [Logistics](#Logistics)
 * [Agenda and Notes](#Agenda-and-Notes)
+    * [2022-08-11 Meeting](#August-11-2022)
+    * [2022-07-28 Meeting](#July-28-2022) - ***Cancelled***
+    * [2022-07-14 Meeting](#July-14-2022) - ***Cancelled***
+    * [2022-06-23 Meeting](#June-23-2022)
+    * [2022-06-09 Meeting](#June-9-2022)
     * [2022-05-26 Meeting](#May-26-2022)
     * [2022-05-12 Meeting](#May-12-2022)
     * [2022-04-28 Meeting](#April-28-2022)
@@ -28,6 +33,91 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/MX4W9EE0RBeO3xfJ9wDi_Q) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### August 11, 2022
+
+#### Participants
+
+* Fatih Degirmenci, CDF
+* Tracy Ragan, DeployHub, Ortelius and OpenSSF Board Member, CDF TOC
+* Justin Abrahms, eBay, CDF TOC/Board/SIG-Interoperability
+* Terry Cox, Bootstrap
+* Kara de la Marck, CDF
+* David Bendory, Google
+* Chuang Wang, Google
+* Yongxuan Zhang, Google
+* Prakash Jagatheesan, Google
+* Ronan, Google
+* Tim Miller, Kusari
+* Alex Misdorp
+* Michael Lieberman, Kusari
+* Parth Patel, Kusari
+* Andrea Frittoli, IBM, CDF TOC/Board/SIG-Events
+* Brett Smith, SAS
+* Charles Tudor, SAS
+* Eric Wimmer, SAS
+* Su Johnson, SAS
+* Scott Todd, SAS
+* Jill Madritch, SAS
+* Ankit D Mohapatra, berkshire grey
+* Rajat Gupta, Jenkins X
+* Osama Magdy, Jenkins X
+* Terry Cox
+* David Espejo
+* Georg Kunz
+* Juliane
+
+#### Agenda and Notes
+
+* Binary Authorization, David Bendory, Google
+    * [Binary Authorization on Borg Whitepaper](http://cloud.google.com/security/binary-authorization-for-borg/)
+    * [Binary Authorization on Google Cloud](http://cloud.google.com/binary-authorization/)
+    * [Scripted Demo of Binary Authorization on GCP](https://github.com/bendory/tekton-on-gcp)
+    * More about [Container Security at Google](http://cloud.google.com/containers/security)
+* CDF Reference Architecture, All
+    * Aligning our efforts to contribute to the CDF Reference Architecture from Software Supply Chain perspective
+    * The deck used to kick off the discussion around the CDF is available [here](https://docs.google.com/presentation/d/1SSSHPLSXEUgg0vu644zrZPvCW9sUYSBwzSCDO_fZtF8/edit)
+    * The work started within SIG Best Practices which meets 2nd and 4th Mondays of every month at 16:00 UTC. Meeting logistics available [here](https://github.com/cdfoundation/sig-best-practices#meetings).
+    * The initial work can be seen by CDF Best Practices website preview [here](https://deploy-preview-23--prod-bp-cdf.netlify.app/architecture/).
+    * The contributions can be made to https://github.com/cdfoundation/best-practices-site/tree/refarch1
+
+#### Action Items
+
+* AI: David Bendory to figure out if he can share the data points (e.g. proto or yaml) for the sbom/provenance they capture.
+
+### July 28, 2022
+
+Cancelled due to vacation period.
+
+### June 14, 2022
+
+Cancelled due to vacation period.
+
+### June 23, 2022
+
+#### Participants
+
+* Fatih Degirmenci, CDF
+* Brett Smith, SAS
+* Ankit, BG, Jenkins X
+* Terry Cox, Bootstrap
+* Andrew Larsen, SAS
+* Sudhindra Rao, JFrog
+* Stephen Chin, JFrog
+
+
+#### Agenda and Notes
+
+* [Pyrsia](https://pyrsia.io/) Presentation, Sudhindra Rao [Presentation](https://docs.google.com/presentation/d/18HnAVTWMIj8HAXepjXPQloDPNRZd4Dqy/edit?usp=sharing&ouid=101931522664284912957&rtpof=true&sd=true)
+* \<addme\>
+
+#### Action Items
+
+* \<addme\>
+
+### June 9, 2022
+
+Cancelled due to [cdCon 2022](https://events.linuxfoundation.org/cdcon/).
 
 ### May 26, 2022
 
