@@ -89,7 +89,7 @@ Chairs and the TOC Sponsor of the SIG are
 
 SIG Software Supply Chain welcomes contributors who take part in the SIG to form workstreams to work on specific areas of interest in a more focused and structured way.
 
-Workstream governance is TBD.
+Workstream governance is [here](./docs/workstream-governance.md).
 
 ## Communication
 
