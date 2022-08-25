@@ -10,7 +10,7 @@ Workstreams should, at a regular cadence, share their progress with the rest of 
 
 ## Lifecycle
 
-Working groups are temporary in nature. They are formed to focus on specific goals and can be disbanded after reaching their goals. Upon formation, leads for the working group are choosen by the working group. When leads step down, they can be replaced by [lazy concensus](https://wiki.openoffice.org/wiki/Documentation/FAQ/ProjectLevel/CommunityQuestions/What_is_%22Lazy_Consensus%22%3F). However, working groups can also be disbanded if there is no longer a lead for the working group (within an 8 week grace period).
+Workstreams are temporary in nature. They are formed to focus on specific goals and can be archived after reaching their goals. Upon formation, leads for the workstreams are choosen by the workstream participants. When leads step down, they can be replaced by [lazy concensus](https://wiki.openoffice.org/wiki/Documentation/FAQ/ProjectLevel/CommunityQuestions/What_is_%22Lazy_Consensus%22%3F). However, working groups can also be disbanded if there is no longer a lead for the working group (within an 8 week grace period).
 
 ## Proposing a new Workstream
 
@@ -32,4 +32,4 @@ None
 
 ## Example Workstreams
 
-* [SIG Interoperability Events in CICD](https://github.com/cdfoundation/sig-interoperability/tree/main/workstreams/archived/events_in_cicd)
+* [SIG Interoperability Events in CICD](https://github.com/cdfoundation/sig-interoperability/tree/main/workstreams/archived/events_in_cicd) (*archived*)
