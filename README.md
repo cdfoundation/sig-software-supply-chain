@@ -41,7 +41,7 @@ The Software Supply Chain SIG will also look for synergies between CDF and other
 ## Members
 
 * Liora Milbaum ([@lmilbaum](https://github.com/lmilbaum)), Red Hat
-* Fatih Degirmenci ([@fdegir](https://github.com/fdegir)), Ericsson Software Technology
+* Fatih Degirmenci ([@fdegir](https://github.com/fdegir)), CDF
 * Kara de la Marck ([@MarckK](https://github.com/MarckK)), CDF
 * Georg Kunz ([@gkunz](https://github.com/gkunz)), Ericsson
 * Erhan Vikyol ([@vikyol](https://github.com/vikyol)), Storebrand
