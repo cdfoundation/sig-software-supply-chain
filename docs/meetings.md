@@ -8,6 +8,7 @@
 
 * [Logistics](#Logistics)
 * [Agenda and Notes](#Agenda-and-Notes)
+    * [2022-08-25 Meeting](#August-25-2022)
     * [2022-08-11 Meeting](#August-11-2022)
     * [2022-07-28 Meeting](#July-28-2022) - ***Cancelled***
     * [2022-07-14 Meeting](#July-14-2022) - ***Cancelled***
@@ -33,6 +34,46 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/MX4W9EE0RBeO3xfJ9wDi_Q) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### August 25, 2022
+
+#### Participants
+
+* Ankit, Berkshire grey
+* Osama Magdy, Jenkins X
+* Rajat Gupta, Jenkins X
+* Justin Abrahms, eBay, CDF TOC/Board/SIG-Interoperability
+* Brett Smith, SAS
+* Emil Bäckmark, Ericsson, CDEvents
+* Fatih Degirmenci, CDF
+* Kara de la Marck, CDF
+* Rajat Gupta
+* Tharwat Abou-Helal
+* David Bendory, Google
+* David Espejo,
+* Hergy Tchuinkou,
+* Parth Patel, Kusari 
+* Georg Kunz, Ericsson
+
+#### Agenda and Notes
+
+* Action Item Review, All
+* Supply Chain Security Journey for Jenkins X - Now and Beyond, Osama Magdy, Jenkins X
+* Supply Chain Maturity Model, David Bendory, Google
+  * Context: [slack msg](https://cdeliveryfdn.slack.com/archives/C0333C92VTR/p1660740646761439)
+  * https://github.com/ossf/scorecard
+  * **C**ode **H**ealth **P**roject **S**core ("CHiPS" and SLSA) (hat/tip -- thanks to Billy Lynch for the clever name!)
+  * Parth -- runtime attestations ("is my application only reaching out to known destinations")
+  * Justin -- this sounds like policies that provide metrics around maturity
+
+#### Action Items
+
+* Interested in Supply Chain Maturity Model / "CHiPS"? Please contact David Bendory on Slack to get involved.
+    * From Zoom: Brett, Justin, Ankit, and Parth stated their interest to take part in the effort on Zoom chat
+
+#### Meeting Recording
+
+* https://www.youtube.com/watch?v=Txe1wBt0pcM
 
 ### August 11, 2022
 
@@ -84,6 +125,11 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/MX4W9EE0RBeO3
 #### Action Items
 
 * AI: David Bendory to figure out if he can share the data points (e.g. proto or yaml) for the sbom/provenance they capture.
+    * Response: https://slsa.dev/provenance exactly matches Google internal format in some places, while in others it is similar information but the schema is different.
+
+#### Meeting Recording
+
+* https://www.youtube.com/watch?v=WQm0bJy3N6Y
 
 ### July 28, 2022
 
@@ -109,11 +155,14 @@ Cancelled due to vacation period.
 #### Agenda and Notes
 
 * [Pyrsia](https://pyrsia.io/) Presentation, Sudhindra Rao [Presentation](https://docs.google.com/presentation/d/18HnAVTWMIj8HAXepjXPQloDPNRZd4Dqy/edit?usp=sharing&ouid=101931522664284912957&rtpof=true&sd=true)
-* \<addme\>
 
 #### Action Items
 
-* \<addme\>
+* None
+
+#### Meeting Recording
+
+* https://www.youtube.com/watch?v=5SNKO8Fysbc
 
 ### June 9, 2022
 
@@ -143,11 +192,14 @@ Cancelled due to [cdCon 2022](https://events.linuxfoundation.org/cdcon/).
     * PR on SIG PoC is open for feedback: https://github.com/cdfoundation/sig-software-supply-chain/pull/12
     * PR on Pipeline Stages is open for feedback: https://github.com/cdfoundation/sig-interoperability/pull/97
 * [Cartographer](https://cartographer.sh/) Presentation, Stephen Levine and Ciro da Silva Costa
-* \<addme\>
 
 #### Action Items
 
-* \<addme\>
+* None
+
+#### Meeting Recording
+
+* https://www.youtube.com/watch?v=6DkKBGauYh0
 
 ### May 12, 2022
 
@@ -182,11 +234,11 @@ Cancelled due to [cdCon 2022](https://events.linuxfoundation.org/cdcon/).
 
 #### Action Items
 
-* \<addme\>
+* None
 
 #### Meeting Recording
 
-* \<addme\>
+* https://www.youtube.com/watch?v=qFag1LrDBcg
 
 ### April 28, 2022
 
@@ -222,7 +274,7 @@ Cancelled due to [cdCon 2022](https://events.linuxfoundation.org/cdcon/).
 
 #### Meeting Recording
 
-* \<addme\>
+* https://www.youtube.com/watch?v=9mi8C106J28
 
 ### April 14, 2022
 
@@ -246,7 +298,6 @@ Cancelled due to [cdCon 2022](https://events.linuxfoundation.org/cdcon/).
 * Setting the scope for the SIG PoC, All
     * PoC Document: https://hackmd.io/U6q685gFTdWRrkWZechvGw?view
 * [TektonCD Chains](https://github.com/tektoncd/chains) Presentation/Demo,Priya Wadhwa, Chainguard
-* \<addme\>
 
 #### Action Items
 
@@ -254,7 +305,7 @@ Cancelled due to [cdCon 2022](https://events.linuxfoundation.org/cdcon/).
 
 #### Meeting Recording
 
-* \<addme\>
+* https://www.youtube.com/watch?v=U4-sRRAOTRA
 
 ### March 24, 2022
 
