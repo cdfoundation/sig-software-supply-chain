@@ -33,10 +33,11 @@ Current members:
 * Justin Abrahms, eBay/CDF
 * Ankit D Mohapatra, Berkshire Grey
 * Parth Patel, Kusari
+* <your-name-here!>
 
 Membership to this workstream is open and self-declared.
 
-New members are advised to:
+New members are invited to:
 * Join the [#wg-supply-chain-maturity on CDF
   Slack](https://cdeliveryfdn.slack.com/archives/C03V8R6C64C) and introduce
   yourself.
