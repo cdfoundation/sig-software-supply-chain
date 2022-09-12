@@ -34,6 +34,7 @@ Current members:
 * Ankit D Mohapatra, Berkshire Grey
 * Parth Patel, Kusari
 * Kara de la Marck, CDF
+* David Espejo, VMware
 * <your-name-here!>
 
 Membership to this workstream is open and self-declared.
