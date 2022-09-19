@@ -43,9 +43,8 @@ New members are invited to:
 * Join the [#wg-supply-chain-maturity on CDF
   Slack](https://cdeliveryfdn.slack.com/archives/C03V8R6C64C) and introduce
   yourself.
-* TODO: add meeting notes, agendas, etc.
-* Regularly join the workstream meetings.
-
+* Regularly join the [workstream meetings](#supply-chain-maturity-workstream-meetings)
+  
 ## Communication Channels
 
 Please join our [Slack
@@ -54,11 +53,12 @@ Slack](https://cdeliveryfdn.slack.com/join/shared_invite/zt-nwc0jjd0-G65oEpv5ynF
 
 ## Meetings
 
-Supply Chain Maturity SIG meetings TBD
+Supply Chain Maturity workstream meetings:
 
-* [Meeting agenda and minutes](https://hackmd.io/xq6lH4F7RUWmqZhluMcgLw)
-* Meeting recordings TBD
-* Zoom Bridge: TBD
+* **When**: every other Tuesday at 12:00PM ET (check your timezone [here](https://dateful.com/time-zone-converter?t=4pm&tz2=UTC))
+* **Where**: https://zoom.us/j/94947282554?pwd=UndPWjFkQTJSUGo4WTRZWjlDaEQvUT09
+* Meeting agenda and minutes [here](https://hackmd.io/xq6lH4F7RUWmqZhluMcgLw)
 * [Zoom International dial-in](https://zoom.us/zoomconference)
+* Meeting recordings: [CDF Youtube Channel SIG Software Supply Chain Playlist](https://youtube.com/playlist?list=PL2KXbZ9-EY9TT2rKSBv6-BUdKqsJg9rAL)
 * [CDF Public Calendar](https://calendar.google.com/calendar/u/0/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24@group.calendar.google.com&ctz=UTC) (UTC)
 
