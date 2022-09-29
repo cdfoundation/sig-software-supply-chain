@@ -22,7 +22,7 @@ The workstream seeks to define an industry standard to augment [SLSA](http://sls
 Proposed names so far include:
 *  Code Health Project Score ("CHiPS") (but it conflicts with [CHIPS
    Alliance](https://chipsalliance.org/) under the Linux Foundation)
-*  Guide for Understanding Application Concerns ("GUAC")
+*  Guide for Understanding Application Concerns ("GUAC") (but it conflicts with the [GUAC project](https://github.com/guacsec/guac) from Google/Kusari/Purdue/Citi))
 
 Our first priority will be to identify additional clever retronyms and settle on
 a memorable name.
