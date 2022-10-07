@@ -8,6 +8,8 @@
 
 * [Logistics](#Logistics)
 * [Agenda and Notes](#Agenda-and-Notes)
+    * [2022-09-22 Meeting](#September-22-2022)
+    * [2022-09-08 Meeting](#September-8-2022)
     * [2022-08-25 Meeting](#August-25-2022)
     * [2022-08-11 Meeting](#August-11-2022)
     * [2022-07-28 Meeting](#July-28-2022) - ***Cancelled***
@@ -34,6 +36,70 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/MX4W9EE0RBeO3xfJ9wDi_Q) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### September 22, 2022
+
+#### Participants
+
+* Brett Smith, SAS Institute
+* Terry Cox
+* David Espejo
+* Georg Kunz
+* Grant Buskey
+* Jill
+* Parth Patel
+* Fatih Degirmenci
+* Justin Abrahms, eBay/CDF
+* Kara de la Marck
+* Osama Magdy
+* David Bendory
+
+#### Agenda and Notes
+
+* CI/CD Pipeline at SAS, Brett Smith
+* Supply Chain Maturity Model Workstream, All
+    * [Announcement Blog Post](https://cd.foundation/blog/2022/09/22/software-supply-chain-sig-launches-maturity-model-workstream/)
+    * Meetings: Every other Tuesday at 16:00 UTC (details [here](https://github.com/cdfoundation/sig-software-supply-chain/tree/main/workstreams/scmm#meetings)), starting October 4
+
+#### Action Items
+
+* None
+
+#### Meeting Recording
+
+* \<addme\>
+
+### September 8, 2022
+
+#### Participants
+
+* Osama Magdy, Jenkins X
+* Kara de la Marck, CDF
+* Parth Patel, Kusari
+* Rajat Gupta, Jenkins X
+* Fatih Degirmenci, CDF
+* Georg Kunz, Ericsson
+* David Espejo, VMWare
+* Brad Beck
+* Andrea Frittoli, IBM
+* Ankit Mohapatra, Berkshire grey
+* Justin Abrahms, eBay, CDF TOC/Board/SIG-Interoperability
+
+#### Agenda and Notes
+
+* Action Item Review, All
+* [FRSCA](https://github.com/buildsec/frsca), Parth Patel, Kusari
+* Supply Chain Maturity Model Workstream, David Bendory, Google
+    * [Workstream Readme](https://github.com/cdfoundation/sig-software-supply-chain/tree/main/workstreams/scmm)
+    * [Doodle Poll to find meeting time](https://doodle.com/meeting/participate/id/dG5MZ45a)
+
+#### Action Items
+
+* None
+
+#### Meeting Recording
+
+* \<addme\>
 
 ### August 25, 2022
 
@@ -68,8 +134,8 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/MX4W9EE0RBeO3
 
 #### Action Items
 
-* Interested in Supply Chain Maturity Model / "CHiPS"? Please contact David Bendory on Slack to get involved.
-    * From Zoom: Brett, Justin, Ankit, and Parth stated their interest to take part in the effort on Zoom chat
+* ~~Interested in Supply Chain Maturity Model / "CHiPS"? Please contact David Bendory on Slack to get involved.~~
+    * ~~From Zoom: Brett, Justin, Ankit, and Parth stated their interest to take part in the effort on Zoom chat~~
 
 #### Meeting Recording
 
