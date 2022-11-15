@@ -44,6 +44,7 @@ New members are invited to:
   Slack](https://cdeliveryfdn.slack.com/archives/C03V8R6C64C) and introduce
   yourself.
 * Regularly join the [workstream meetings](#supply-chain-maturity-workstream-meetings)
+* Join our Google Group at https://groups.google.com/g/cdf-scm -- for access to shared documents.
   
 ## Communication Channels
 
