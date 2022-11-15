@@ -1,4 +1,4 @@
-# Supply Chain Maturity Model Workstream README
+# Supply Chain Maturity Model Workstream
 
 This is a workstream within the CDF SIG Software Supply Chain.
 
