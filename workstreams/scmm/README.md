@@ -56,9 +56,9 @@ Slack](https://cdeliveryfdn.slack.com/join/shared_invite/zt-nwc0jjd0-G65oEpv5ynF
 Supply Chain Maturity workstream meetings:
 
 * **When**: every other Tuesday at 12:00PM ET (check your timezone [here](https://dateful.com/time-zone-converter?t=4pm&tz2=UTC))
-* **Where**: https://zoom.us/j/94947282554?pwd=UndPWjFkQTJSUGo4WTRZWjlDaEQvUT09
-* Meeting agenda and minutes [here](https://hackmd.io/xq6lH4F7RUWmqZhluMcgLw)
-* [Zoom International dial-in](https://zoom.us/zoomconference)
+* **Where**: [Zoom link](https://zoom.us/j/94947282554?pwd=UndPWjFkQTJSUGo4WTRZWjlDaEQvUT09)
+  * [Zoom International dial-in](https://zoom.us/zoomconference)
+* Meeting agenda and minutes on [HackMD](https://hackmd.io/xq6lH4F7RUWmqZhluMcgLw)
 * Meeting recordings: [CDF Youtube Channel SIG Software Supply Chain Playlist](https://youtube.com/playlist?list=PL2KXbZ9-EY9TT2rKSBv6-BUdKqsJg9rAL)
 * [CDF Public Calendar](https://calendar.google.com/calendar/u/0/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24@group.calendar.google.com&ctz=UTC) (UTC)
 
