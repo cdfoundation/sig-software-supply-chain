@@ -20,6 +20,7 @@ levels and definitions across the supply chain will shape our maturity ladder.
 
 Currently identified goals:
 
+* [ ] Identify a clever acronym to capture "Supply Chain Maturity"
 * [ ] Define Metrics to assess Supply Chain Maturity
   * [x] Brainstorm metrics [doc](https://docs.google.com/document/d/1rGvQv2GH8HYbQUZxg89LmWsYe8-MyeTEcj08nwULitw/edit?pli=1#)
   * [ ] Draft metrics explanation
