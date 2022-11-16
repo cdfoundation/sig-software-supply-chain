@@ -24,8 +24,7 @@ Proposed names so far include:
    Alliance](https://chipsalliance.org/) under the Linux Foundation)
 *  Guide for Understanding Application Concerns ("GUAC") (but it conflicts with the [GUAC project](https://github.com/guacsec/guac) from Google/Kusari/Purdue/Citi))
 
-Our first priority will be to identify additional clever retronyms and settle on
-a memorable name.
+For current goals, see our [roadmap](ROADMAP.md).
 
 ## Members
 Current members:
