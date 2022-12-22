@@ -82,7 +82,7 @@ The process SIG Software Supply Chain follows can be seen from [here](https://gi
 Chairs and the TOC Sponsor of the SIG are
 
 * Liora Milbaum ([@lmilbaum](https://github.com/lmilbaum)), Red Hat - Co-chair
-* Fatih Degirmenci ([@fdegir](https://github.com/fdegir)), Ericsson Software Technology - Co-chair
+* David Bendory ([@bendory](https://github.com/bendory)), Google - Co-chair
 * Melissa McKay ([@mjmckay](https://github.com/mjmckay)), JFrog - TOC Sponsor
 
 ### SIG Workstreams
