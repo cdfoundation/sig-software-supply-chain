@@ -23,7 +23,7 @@ Currently identified goals:
 * [ ] Identify a clever acronym to capture "Supply Chain Maturity"
 * [ ] Define Metrics to assess Supply Chain Maturity
   * [x] Brainstorm metrics [doc](https://docs.google.com/document/d/1rGvQv2GH8HYbQUZxg89LmWsYe8-MyeTEcj08nwULitw/edit?pli=1#)
-  * [ ] Draft metrics explanation
+  * [x] Draft metrics explanation [doc](https://docs.google.com/document/d/1CDSbQezqauwL2BaFob7o2ztLk6dTQGZqZCMZ_szNhW8/edit?resourcekey=0-ooiOpNu2gyR-KOlMNOCcDA)
   * [ ] Working Group adopts draft
 * [ ] Draft [best practices assessment](https://bestpractices.cd.foundation/learn/assess/)
   * [ ] Working Group adopts draft
