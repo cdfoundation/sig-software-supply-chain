@@ -53,6 +53,7 @@ The Software Supply Chain SIG will also look for synergies between CDF and other
 * David Espejo ([davidmirror-ops](https://github.com/davidmirror-ops)), VMware
 * Brett Smith ([@xbcsmith](https://github.com/xbcsmith)), SAS Institute Inc.
 * David Bendory ([@bendory](https://github.com/bendory)), Google
+* Parth Patel ([@pxp928](https://github.com/pxp928)), Kusari
 
 ## New Members
 
