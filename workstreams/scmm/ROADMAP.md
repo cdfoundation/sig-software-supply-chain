@@ -1,5 +1,8 @@
 # Roadmap
 
+**This workstream is no longer active; the below is maintained for historical
+purposes.**
+
 ## Mission: Define industry standards for Supply Chain Maturity.
 
 The Working Group seeks to define standards for measuring supply chain maturity.
