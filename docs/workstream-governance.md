@@ -26,11 +26,9 @@ Add your proposal, and a link to your PR, to our [meeting notes](https://hackmd.
 
 Current workstreams can be found in the [workstreams directory](../workstreams/).
 
-* [Supply Chain Maturity Model](../workstreams/scmm/README.md)
-
 ## Archived Workstreams
 
-None
+* [Supply Chain Maturity Model](../workstreams/scmm/README.md)
 
 ## Example Workstreams
 

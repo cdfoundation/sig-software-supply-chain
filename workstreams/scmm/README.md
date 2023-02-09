@@ -1,10 +1,13 @@
 # Supply Chain Maturity Model Workstream
 
-This is a workstream within the CDF SIG Software Supply Chain.
+The Supply Chain Maturity Model workstream was proposed on
+[August 25, 2022](https://github.com/cdfoundation/sig-software-supply-chain/blob/main/docs/meetings.md#August-25-2022)
+and continued until January 2023.
 
-The forming of this workstream was suggested at a [recent SIG Software Supply
-Chain
-meeting](https://github.com/cdfoundation/sig-software-supply-chain/blob/main/docs/meetings.md#August-25-2022)
+The workstream produced a [Supply Chain Maturity
+Guide](../../docs/supply-chain-maturity.md) which is included this repository.
+
+The below details are maintained for historical purposes.
 
 ## Scope
 
@@ -47,18 +50,10 @@ New members are invited to:
   
 ## Communication Channels
 
-Please join our [Slack
-channel](https://cdeliveryfdn.slack.com/archives/C03V8R6C64C) on [CDF
-Slack](https://cdeliveryfdn.slack.com/join/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg#/).
+**This workstream slack channel is no longer active.**
+
+Please join the main SIG slack discussion instead.
 
 ## Meetings
 
-Supply Chain Maturity workstream meetings:
-
-* **When**: every other Tuesday at 12:00PM ET (check your timezone [here](https://dateful.com/time-zone-converter?t=4pm&tz2=UTC))
-* **Where**: [Zoom link](https://zoom.us/j/94947282554?pwd=UndPWjFkQTJSUGo4WTRZWjlDaEQvUT09)
-  * [Zoom International dial-in](https://zoom.us/zoomconference)
-* Meeting agenda and minutes on [HackMD](https://hackmd.io/xq6lH4F7RUWmqZhluMcgLw)
-* Meeting recordings: [CDF Youtube Channel SIG Software Supply Chain Playlist](https://youtube.com/playlist?list=PL2KXbZ9-EY9TT2rKSBv6-BUdKqsJg9rAL)
-* [CDF Public Calendar](https://calendar.google.com/calendar/u/0/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24@group.calendar.google.com&ctz=UTC) (UTC)
-
+**This workstream no longer meets.**
