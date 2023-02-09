@@ -57,3 +57,6 @@ Please join the main SIG slack discussion instead.
 ## Meetings
 
 **This workstream no longer meets.**
+
+Historic meeting notes are available
+[here](https://hackmd.io/xq6lH4F7RUWmqZhluMcgLw).
