@@ -93,6 +93,10 @@ SIG Software Supply Chain welcomes contributors who take part in the SIG to form
 
 Workstream governance is [here](./docs/workstream-governance.md).
 
+Archived workstreams are:
+
+* [Supply Chain Maturity Model](./workstreams/archived/scmm/README.md)
+
 ## Communication
 
 SIG Software Supply Chain communication happens via a public mailing list and everyone is

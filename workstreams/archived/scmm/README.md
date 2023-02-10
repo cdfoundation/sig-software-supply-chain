@@ -1,5 +1,7 @@
 # Supply Chain Maturity Model Workstream
 
+**Note! This workstream achieved the desirable outcome and it is now archived. Followup conversations will take place in [SIG Software Supply Chain](../../../README.md)**
+
 The Supply Chain Maturity Model workstream was proposed on
 [August 25, 2022](https://github.com/cdfoundation/sig-software-supply-chain/blob/main/docs/meetings.md#August-25-2022)
 and continued until January 2023.
