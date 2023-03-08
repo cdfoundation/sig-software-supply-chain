@@ -17,9 +17,10 @@ timelines or delivery dates, but rather uses time horizons (now, next, later).
 
 ## Charter
 
-The Software Supply Chain SIG aims to study different aspects of CI/CD systems, securing
-it to prevent bad actors from exploiting these systems and the products produced and deployed by
-them for malicious intentions.
+The Software Supply Chain SIG aims to study different aspects of CI/CD systems and
+share best practices for CI/CD with a focus on securing it to prevent bad actors from
+exploiting these systems and the products produced and deployed by them for malicious
+intentions.
 
 Please see the SIG charter from [this link](https://github.com/cdfoundation/sig-software-supply-chain/blob/main/README.md).
 
@@ -85,7 +86,7 @@ Various groups within the CDF such as [SIG Interoperability](https://github.com/
 and [SIG Events](https://github.com/cdfoundation/sig-events) have been working on
 developing a shared vocabulary to help enable the further developments in corresponding
 areas. The work is done within the SIG Interoperability repository and the community is
-encouraged to contriubute to corresponding documents listed below.
+encouraged to contribute to corresponding documents listed below.
 
 * [SIG Interoperability Tools Vocabulary](https://github.com/cdfoundation/sig-interoperability/blob/main/docs/tools-terminology.md)
 * [SIG Interoperability Pipelines Vocabulary](https://github.com/cdfoundation/sig-interoperability/blob/main/docs/pipelines-terminology.md)
@@ -115,7 +116,7 @@ to the project.
 Please note that this work depends on the earlier work, Establishing Shared Vocabulary.
 
 
-## Contributors
+## Contributors to this Document
 
 Please add yourself to the list in order to credit your contributions.
 
