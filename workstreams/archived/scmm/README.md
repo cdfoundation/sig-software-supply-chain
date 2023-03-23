@@ -7,7 +7,7 @@ The Supply Chain Maturity Model workstream was proposed on
 and continued until January 2023.
 
 The workstream produced a [Supply Chain Maturity
-Guide](../../docs/supply-chain-maturity.md) which is included this repository.
+Guide](https://github.com/cdfoundation/sig-software-supply-chain/blob/main/docs/supply-chain-maturity.md) which is included this repository.
 
 The below details are maintained for historical purposes.
 
