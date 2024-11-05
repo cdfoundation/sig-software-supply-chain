@@ -1,4 +1,9 @@
-# CDF Software Supply Chain SIG
+# CDF Software Supply Chain SIG - **Archived**
+
+The work produced by the Software Supply Chain SIG is available in this repository.
+
+If you are interested in software supply chain and would like to resume the work of this SIG, please reach out to the
+CDF's [Technical Oversight Committee](https://cd.foundation/about/toc/).
 
 ## Quick links
 
